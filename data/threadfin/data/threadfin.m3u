@@ -1,0 +1,79 @@
+#EXTM3U url-tvg="http://192.168.1.114:34402/xmltv/threadfin.xml" x-tvg-url="http://192.168.1.114:34402/xmltv/threadfin.xml"
+#EXTINF:0 channelID="x-ID.0" tvg-chno="1005" tvg-name="RO: Antena FA  HD" tvg-id="1005" tvg-logo="http://192.168.1.114:34402/images/0c202ec184b5a38d3fefc45af158e0e1.jpg" group-title="RO| ROMANIA HD/4K",RO: Antena FA  HD
+http://192.168.1.114:34402/stream/6be3b4bf8abedd122c5f50ba14cd5797
+#EXTINF:0 channelID="x-ID.6" tvg-chno="1006" tvg-name="BE: COMEDY CENTRAL HD" tvg-id="1006" tvg-logo="http://192.168.1.114:34402/images/0cca2905ed68244a4e739e02f4832b69.png" group-title="BE| KIDS HD/4K",BE: COMEDY CENTRAL HD
+http://192.168.1.114:34402/stream/9bda06b01829658c9d424b05cd93be12
+#EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="BE: COMEDY CENTRAL HD." tvg-id="1007" tvg-logo="http://192.168.1.114:34402/images/0cca2905ed68244a4e739e02f4832b69.png" group-title="BE| KIDS HD/4K",BE: COMEDY CENTRAL HD.
+http://192.168.1.114:34402/stream/9bda06b01829658c9d424b05cd93be12
+#EXTINF:0 channelID="x-ID.12" tvg-chno="1012" tvg-name="BE: KETNET HD" tvg-id="1012" tvg-logo="http://192.168.1.114:34402/images/b2e71fc99c3939c5635a9b5c2e4df471.jpg" group-title="BE| KIDS HD/4K",BE: KETNET HD
+http://192.168.1.114:34402/stream/fc5c5dbc4208f61d665da06f545e8569
+#EXTINF:0 channelID="x-ID.15" tvg-chno="1015" tvg-name="BE: VTM HD ◉" tvg-id="1015" tvg-logo="http://192.168.1.114:34402/images/a500d04c1317b7412dbbc98a20b94273.jpg" group-title="BE| GENERAL HD/4K",BE: VTM HD ◉
+http://192.168.1.114:34402/stream/173381a9fbe452cf8c32007735030d95
+#EXTINF:0 channelID="x-ID.16" tvg-chno="1016" tvg-name="BE: VTM 2 HD ◉" tvg-id="1016" tvg-logo="http://192.168.1.114:34402/images/000853468c97f49c197afdb759d095b4.png" group-title="BE| GENERAL HD/4K",BE: VTM 2 HD ◉
+http://192.168.1.114:34402/stream/7ff26c83c2edc5cba06130734c844426
+#EXTINF:0 channelID="x-ID.17" tvg-chno="1017" tvg-name="BE: VTM 3 HD ◉" tvg-id="1017" tvg-logo="http://192.168.1.114:34402/images/7c2682f273a64306762a92fa815b03ca.jpg" group-title="BE| GENERAL HD/4K",BE: VTM 3 HD ◉
+http://192.168.1.114:34402/stream/1aec754da814a6e896c44c86203da2a4
+#EXTINF:0 channelID="x-ID.18" tvg-chno="1018" tvg-name="BE: VTM 4 HD ◉" tvg-id="1018" tvg-logo="http://192.168.1.114:34402/images/c5ef0ea28ba0251affc25ee47b1d6bf8.jpg" group-title="BE| GENERAL HD/4K",BE: VTM 4 HD ◉
+http://192.168.1.114:34402/stream/4efcedf3d0255c36907433aa5c682f00
+#EXTINF:0 channelID="x-ID.19" tvg-chno="1019" tvg-name="RO: Realitatea TV" tvg-id="1019" tvg-logo="http://192.168.1.114:34402/images/82780351408a1898fec976a55f25052e.jpg" group-title="RO| ROMANIA HD/4K",RO: Realitatea TV
+http://192.168.1.114:34402/stream/495e17bc51a089662e3857108c3ba1bf
+#EXTINF:0 channelID="x-ID.20" tvg-chno="1020" tvg-name="BE: CRIME+INVESTIGATION ◉" tvg-id="1020" tvg-logo="http://192.168.1.114:34402/images/d385d3f76eafc876dcd7f474deb5d6ea.jpg" group-title="BE| GENERAL HD/4K",BE: CRIME+INVESTIGATION ◉
+http://192.168.1.114:34402/stream/10bfcb13cd26707ee9e0bb598d53f39e
+#EXTINF:0 channelID="x-ID.23" tvg-chno="1023" tvg-name="BE: NATIONAL GEO WILD ◉" tvg-id="1023" tvg-logo="http://192.168.1.114:34402/images/e6067b3f2ab5c0ff5aa32b2d1e233fc7.jpg" group-title="BE| DOCUMENTARY HD/4K",BE: NATIONAL GEO WILD ◉
+http://192.168.1.114:34402/stream/7ddaadbf1d9f6964e72758d3e0cf58a9
+#EXTINF:0 channelID="x-ID.25" tvg-chno="1025" tvg-name="BE: NATIONAL GEO HD ◉" tvg-id="1025" tvg-logo="http://192.168.1.114:34402/images/8800bc97c377105cdf59179f309ed418.jpg" group-title="BE| DOCUMENTARY HD/4K",BE: NATIONAL GEO HD ◉
+http://192.168.1.114:34402/stream/a402ca51bc1039ee9dd5208bf7259553
+#EXTINF:0 channelID="x-ID.26" tvg-chno="1026" tvg-name="BE: NATIONAL GEO HD." tvg-id="1026" tvg-logo="http://192.168.1.114:34402/images/8800bc97c377105cdf59179f309ed418.jpg" group-title="BE| DOCUMENTARY HD/4K",BE: NATIONAL GEO HD.
+http://192.168.1.114:34402/stream/a402ca51bc1039ee9dd5208bf7259553
+#EXTINF:0 channelID="x-ID.27" tvg-chno="1027" tvg-name="BE: DISCOVERY HD ◉" tvg-id="1027" tvg-logo="http://192.168.1.114:34402/images/327a0f12441f27cfc85a86fdc2a61ef3.jpg" group-title="BE| DOCUMENTARY HD/4K",BE: DISCOVERY HD ◉
+http://192.168.1.114:34402/stream/e69f502ef13d612fb4e7474ab978fd71
+#EXTINF:0 channelID="x-ID.28" tvg-chno="1028" tvg-name="BE: Discovery HD." tvg-id="1028" tvg-logo="http://192.168.1.114:34402/images/327a0f12441f27cfc85a86fdc2a61ef3.jpg" group-title="BE| DOCUMENTARY HD/4K",BE: Discovery HD.
+http://192.168.1.114:34402/stream/ca9e8f19f7de470914bf55238787d488
+#EXTINF:0 channelID="x-ID.29" tvg-chno="1029" tvg-name="BE: EUROSPORT 1 HD ◉" tvg-id="1029" tvg-logo="http://192.168.1.114:34402/images/ff833511fd4a4a45e6d7ae85c5e0c961.jpg" group-title="BE| SPORT HD/4K",BE: EUROSPORT 1 HD ◉
+http://192.168.1.114:34402/stream/17944312abf9c71d98f00fc33552c7bd
+#EXTINF:0 channelID="x-ID.30" tvg-chno="1030" tvg-name="BE: EUROSPORT 2 HD ◉" tvg-id="1030" tvg-logo="http://192.168.1.114:34402/images/cb4c63f6296af435d8cc304f39ad74a5.png" group-title="BE| SPORT HD/4K",BE: EUROSPORT 2 HD ◉
+http://192.168.1.114:34402/stream/118109639527e066d83cb5c2d2c041f1
+#EXTINF:0 channelID="x-ID.31" tvg-chno="1031" tvg-name="RO: Diva Universal" tvg-id="1031" tvg-logo="http://192.168.1.114:34402/images/b451e4698f4f47f1c1ee014556f01a5b.png" group-title="RO| ROMANIA HD/4K",RO: Diva Universal
+http://192.168.1.114:34402/stream/6feafa11901221de977e1bb189ba2a96
+#EXTINF:0 channelID="x-ID.32" tvg-chno="1032" tvg-name="RO: Euro Sport 1 HD" tvg-id="1032" tvg-logo="http://192.168.1.114:34402/images/ff833511fd4a4a45e6d7ae85c5e0c961.jpg" group-title="RO| ROMANIA HD/4K",RO: Euro Sport 1 HD
+http://192.168.1.114:34402/stream/49d2c33ac2a2af7ff974b17af86621ba
+#EXTINF:0 channelID="x-ID.33" tvg-chno="1033" tvg-name="RO: Euro Sport 2 HD" tvg-id="1033" tvg-logo="http://192.168.1.114:34402/images/5942ee21dec5d022623c83d7f67a5217.png" group-title="RO| ROMANIA HD/4K",RO: Euro Sport 2 HD
+http://192.168.1.114:34402/stream/a7fabea1ac90f030385391a665b860d7
+#EXTINF:0 channelID="x-ID.34" tvg-chno="1034" tvg-name="RO: HBO HD RO" tvg-id="1034" tvg-logo="http://192.168.1.114:34402/images/99968175e472e3249165d3c5d035d5b8.jpg" group-title="RO| ROMANIA HD/4K",RO: HBO HD RO
+http://192.168.1.114:34402/stream/cc8c4b91d4a2d9d067f0c23894cd8e11
+#EXTINF:0 channelID="x-ID.35" tvg-chno="1035" tvg-name="RO: HBO 3 HD" tvg-id="1035" tvg-logo="http://192.168.1.114:34402/images/99968175e472e3249165d3c5d035d5b8.jpg" group-title="RO| ROMANIA HD/4K",RO: HBO 3 HD
+http://192.168.1.114:34402/stream/f97e4867b992833f6924b4d8285b2508
+#EXTINF:0 channelID="x-ID.36" tvg-chno="1036" tvg-name="RO: HBO 2 HD" tvg-id="1036" tvg-logo="http://192.168.1.114:34402/images/c8871ddf493d0df1b49b7a0213ee0593.jpg" group-title="RO| ROMANIA HD/4K",RO: HBO 2 HD
+http://192.168.1.114:34402/stream/5342b60c1f4300c2a5cf463ceeb7f5bb
+#EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="RO: HBO 3 RO" tvg-id="1037" tvg-logo="http://192.168.1.114:34402/images/99968175e472e3249165d3c5d035d5b8.jpg" group-title="RO| ROMANIA HD/4K",RO: HBO 3 RO
+http://192.168.1.114:34402/stream/293563fabd33cbe51f9f7533d41c485a
+#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="RO: FilmBox Premium RO" tvg-id="1038" tvg-logo="http://192.168.1.114:34402/images/e10f38e99ad6dfc33d664cea21c48044.jpg" group-title="RO| ROMANIA HD/4K",RO: FilmBox Premium RO
+http://192.168.1.114:34402/stream/22e171746bfe0875996f60063613d265
+#EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="RO: National Geographic RO" tvg-id="1039" tvg-logo="http://192.168.1.114:34402/images/85ec05c2aaadacd9a775821dd412585f.jpg" group-title="RO| ROMANIA HD/4K",RO: National Geographic RO
+http://192.168.1.114:34402/stream/00760e3cc1e17f07ddcfe674906c7afe
+#EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="RO: Discovery HD" tvg-id="1040" tvg-logo="http://192.168.1.114:34402/images/8b9d3eee020319c5d102cc5a248cc05e.jpg" group-title="RO| ROMANIA HD/4K",RO: Discovery HD
+http://192.168.1.114:34402/stream/e0ef0d40dfc4c9d3db9fa9df1a0dde0f
+#EXTINF:0 channelID="x-ID.41" tvg-chno="1041" tvg-name="RO: History HD" tvg-id="1041" tvg-logo="http://192.168.1.114:34402/images/b39b2dde0b617177d8a11cf8d05424ed.jpg" group-title="RO| ROMANIA HD/4K",RO: History HD
+http://192.168.1.114:34402/stream/712d2bdf7ead6e89aa1eb85f9cbb6c59
+#EXTINF:0 channelID="x-ID.42" tvg-chno="1042" tvg-name="RO: Kanal D HD" tvg-id="1042" tvg-logo="http://192.168.1.114:34402/images/bd89968d68f856d1f4f19986f2920ef9.jpg" group-title="RO| ROMANIA HD/4K",RO: Kanal D HD
+http://192.168.1.114:34402/stream/a3bd171db7285d802bd7bf171dbb2f4b
+#EXTINF:0 channelID="x-ID.43" tvg-chno="1043" tvg-name="RO: Pro TV HD" tvg-id="1043" tvg-logo="http://192.168.1.114:34402/images/848abf9cd3f4e4e0b28b11f997251f9e.jpg" group-title="RO| ROMANIA HD/4K",RO: Pro TV HD
+http://192.168.1.114:34402/stream/b76da2a2af0ff4e85ac8444caa45c5c8
+#EXTINF:0 channelID="x-ID.44" tvg-chno="1044" tvg-name="RO: Viasat History HD" tvg-id="1044" tvg-logo="http://192.168.1.114:34402/images/eb056cf85ea46b28bf213bd49b9e0092.jpg" group-title="RO| ROMANIA HD/4K",RO: Viasat History HD
+http://192.168.1.114:34402/stream/48a83fded9a94daef927f42e590380e6
+#EXTINF:0 channelID="x-ID.45" tvg-chno="1045" tvg-name="RO: Cinemax HD" tvg-id="1045" tvg-logo="http://192.168.1.114:34402/images/5aeea30f4bc483d1f27564515d92da52.jpg" group-title="RO| ROMANIA HD/4K",RO: Cinemax HD
+http://192.168.1.114:34402/stream/6e764741476261cb58d6f4b2f1b7037f
+#EXTINF:0 channelID="x-ID.46" tvg-chno="1046" tvg-name="RO: ID" tvg-id="1046" tvg-logo="http://192.168.1.114:34402/images/fabe4385b4de37363020b32418c7c518.png" group-title="RO| ROMANIA HD/4K",RO: ID
+http://192.168.1.114:34402/stream/586eb461c899968f856f4a7bc3a12555
+#EXTINF:0 channelID="x-ID.48" tvg-chno="1048" tvg-name="RO: TV 1000" tvg-id="1048" tvg-logo="http://192.168.1.114:34402/images/fabe4385b4de37363020b32418c7c518.png" group-title="RO| ROMANIA HD/4K",RO: TV 1000
+http://192.168.1.114:34402/stream/586eb461c899968f856f4a7bc3a12555
+#EXTINF:0 channelID="x-ID.60" tvg-chno="1060" tvg-name="NL: DISNEY CHANNEL 4K" tvg-id="1060" tvg-logo="http://192.168.1.114:34402/images/f603960a940dd0145e683a2322ff11ec.jpg" group-title="NL| KINDEREN HD/4K",NL: DISNEY CHANNEL 4K
+http://192.168.1.114:34402/stream/3d479b292e546b3d9a231ff518c9e1fc
+#EXTINF:0 channelID="x-ID.62" tvg-chno="1062" tvg-name="NL: NICKELODEO SPIKE HD" tvg-id="1062" tvg-logo="http://192.168.1.114:34402/images/81e9c5cdedc6ed7866e88d692866a54a.jpg" group-title="NL| KINDEREN HD/4K",NL: NICKELODEO SPIKE HD
+http://192.168.1.114:34402/stream/6f9229dffaf1d4b2f9565c186bd5aa7f
+#EXTINF:0 channelID="x-ID.64" tvg-chno="1064" tvg-name="NL: CARTOON NETWORK 4K" tvg-id="1064" tvg-logo="http://192.168.1.114:34402/images/0a4d12fc3de7e6db899190c5e2e95eb1.png" group-title="NL| KINDEREN HD/4K",NL: CARTOON NETWORK 4K
+http://192.168.1.114:34402/stream/b50d90ba376edcae0ea05bf1556c3d5e
+#EXTINF:0 channelID="x-ID.65" tvg-chno="1065" tvg-name="NL: BABY TV" tvg-id="1065" tvg-logo="http://192.168.1.114:34402/images/bc792cf04b5494f74d6577940b6835d1.jpg" group-title="NL| KINDEREN HD/4K",NL: BABY TV
+http://192.168.1.114:34402/stream/52733ed2842fb0cfc10fc10a973f12a0
+#EXTINF:0 channelID="x-ID.96" tvg-chno="1073" tvg-name="RO: FAVORIT TV" tvg-id="1073" tvg-logo="http://192.168.1.114:34402/images/eaf89ccd9d55c768b77edc7a0dd48306.jpg" group-title="RO| ROMANIA HD/4K",RO: FAVORIT TV
+http://192.168.1.114:34402/stream/528dc5b7b8907bcce783d77adac09aae
