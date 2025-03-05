@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  plex:
+    image: plexinc/pms-docker
+    container_name: plex
+    environment:
+      - TZ=Europe/Brussels
+      - ADVERTISE_IP=http://192.168.1.114:32400/
+      - PLEX_CLAIM=claim-Xyt1A5B2enyREqvcCsSN
+        # - ALLOWED_NETWORKS=192.168.1.0/24
+    hostname: pc-yannick
+    ports:
+      - "32400:32400/tcp"
+      - "3005:3005/tcp"
+      - "8324:8324/tcp"
+      - "32469:32469/tcp"
+      - "1900:1900/udp"
+      - "32410:32410/udp"
+      - "32412:32412/udp"
+      - "32413:32413/udp"
+      - "32414:32414/udp"
+    volumes:
+      - /opt/plex/config:/config
+      - /opt/plex/transcode/temp:/transcode
+      - /opt/plex/media:/data
+      - realdebrid:/torrents
+    restart: unless-stopped            
+
+  plex_debrid:
+    image: itstoggle/plex_debrid
+    container_name: plex_debrid
+    volumes:
+      - /opt/plex/debrid/config:/config
+    network_mode: host
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+
+  threadfin:
+    image: fyb3roptik/threadfin
+    container_name: threadfin
+    ports:
+      - 34402:34402
+    environment:
+      - PUID=1001
+      - PGID=1001
+      - TZ=Europe/Brussels
+      - THREADFIN_PORT=34402
+      - THREADFIN_DEBUG=1
+      - THREADFIN_BRANCH=beta
+    volumes:
+      - /opt/threadfin/conf:/home/threadfin/conf
+      # - /opt/threadfin/temp:/tmp/threadfin:rw
+    restart: unless-stopped
+
+volumes:
+    realdebrid:
+        external: true
